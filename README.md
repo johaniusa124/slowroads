@@ -2,4 +2,4 @@
 
 this is a test
 
-[www.google.com](https://.google.com)
+[www.google.com](https://google.com)
